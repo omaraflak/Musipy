@@ -14,4 +14,4 @@ Finally, run the server :
 
 # Android App
 
-You can find my Android app here:
+You can find my Android app here: https://play.google.com/store/apps/details?id=me.aflak.musipy
