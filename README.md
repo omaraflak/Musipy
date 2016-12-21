@@ -8,6 +8,10 @@ You need **nodejs** and **npm** installed. Then simply put the *app.js* file on 
     npm install socket.io
     npm install node-omxplayer
     
-Finally run the server :
+Finally, run the server :
 
     nodejs app.js
+
+# Android App
+
+You can find my Android app here:
