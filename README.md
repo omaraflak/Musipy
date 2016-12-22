@@ -7,6 +7,7 @@ You need **nodejs** and **npm** installed. Then simply put the *[app.js](https:/
 
     npm install socket.io
     npm install node-omxplayer
+    apt-get install omxplayer # if you don't have it yet
     
 Finally, run the server :
 
