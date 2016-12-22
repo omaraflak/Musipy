@@ -18,7 +18,7 @@ Finally, run the server :
 
     nodejs app.js
     
-You can make the nodejs script as a service and start it at the boot of your Pi usinf **[forever-service](https://github.com/zapty/forever-service)**
+You can make the nodejs script as a service and start it at the boot of your Pi using **[forever-service](https://github.com/zapty/forever-service)**
 
 # Android App
 
