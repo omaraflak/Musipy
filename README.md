@@ -12,7 +12,7 @@ Put the *[app.js](https://github.com/omaflak/Musipy/blob/master/app.js)* file on
     
 Also if you don't have it yet :
 
-    apt-get install omxplayer
+    sudo apt-get install omxplayer
 
 Finally, run the server :
 
