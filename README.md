@@ -3,11 +3,11 @@ NodeJs server using omxplayer to play song from an external app.
 
 # Install
 
-You need **nodejs** and **npm** installed. Then simply put the *[app.js](https://github.com/omaflak/Musipy/blob/master/app.js)* file on your RaspberryPi and execute the following npm commands :
+You need **omxplayer**, **nodejs** and **npm** installed. Then simply put the *[app.js](https://github.com/omaflak/Musipy/blob/master/app.js)* file on your RaspberryPi and execute the following npm commands :
 
+    apt-get install omxplayer
     npm install socket.io
     npm install node-omxplayer
-    apt-get install omxplayer #if you don't have it yet
     
 Finally, run the server :
 
