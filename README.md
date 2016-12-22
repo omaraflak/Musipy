@@ -22,4 +22,4 @@ You can make the nodejs script as a service and start it at the boot of your Pi 
 
 # Android App
 
-You can find my Android app here: **[GOOGLE PLAY](https://play.google.com/store/apps/details?id=me.aflak.musipy)**
+You can find my Android app here : **[GOOGLE PLAY](https://play.google.com/store/apps/details?id=me.aflak.musipy)**
