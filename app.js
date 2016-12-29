@@ -64,6 +64,9 @@ io.on('connection', function(client){
             player.pause();
             isPlaying = !isPlaying;
         }
+        else if(player!=null && !player.running){
+            playMusic(musicsLastIndex);
+        }
     });
 
     client.on('volumeUp', function(){
